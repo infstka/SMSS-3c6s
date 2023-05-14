@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "FirstShop",
+        "description": "Description of first shop",
+        "site": "https://www.wikihow.com",
+        "popularity": "Low",
+        "imageName": "plant"
+    },
+    {
+        "id": 2,
+        "name": "SecondShop",
+        "description": "Description of second shop",
+        "site": "https://www.minecraft.net/ru-ru",
+        "popularity": "High",
+        "imageName": "treasure_chest"
+    },
+    {
+        "id": 3,
+        "name": "ThirdShop",
+        "description": "Description of third shop",
+        "site": "https://en.wikipedia.org/wiki/Blacksmith",
+        "popularity": "Middle",
+        "imageName": "blacksmithing"
+    }
+]
